@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "form-data": "^2.3.1",
     "got": "^8.0.1",
     "next": "^4.2.0",
     "react": "^16.2.0",
